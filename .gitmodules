@@ -1,3 +1,6 @@
 [submodule "algorithms"]
 	path = algorithms
 	url = git@github.com:mattos-filipe/algorithms.git
+[submodule "data-structures"]
+	path = data-structures
+	url = git@github.com:mattos-filipe/data-structures.git
